@@ -2,6 +2,12 @@
 ### PROJETO INTEGRADO MULTIDISCIPLINAR - UNIP 2021
 Sistema em C para o cadastro de pacientes diagnosticados com Covid-19.
 
+![image](https://user-images.githubusercontent.com/76706456/151644671-0f437f3e-3f50-491c-80ec-55855c7d2936.png)
+
+![image](https://user-images.githubusercontent.com/76706456/151644693-e2f24ea8-57bc-4c7e-8e1d-d2468f6b0aa4.png)
+
+![image](https://user-images.githubusercontent.com/76706456/151644720-85a3cb5d-f003-412a-9716-c2876d28ca17.png)
+
 Com o crescimento exponencial dos casos de pacientes diagnosticados com Covid-19, tornou-se necessário a utilização de tecnologias nesse contexto. Por meio de um software de cadastro de pacientes cujo o diagnóstico foi positivo, é gerada uma base de dados informativa com os principais dados de cada paciente, tais como: nome, CPF, telefone, endereço (rua, número, bairro, cidade, estado e CEP), data de nascimento, e-mail, data do diagnóstico e comorbidade do paciente (diabetes, obesidade, hipertensão, tuberculose, entre outros), se houver.
 
 A bases de dados geradas poderão ser consultadas a qualquer momento. Ao realizar o cadastro de um novo paciente, se pertencer ao grupo de risco (com base na idade superior a 65 anos ou na existência de comorbidade), será salvo, também, em uma base de dados restrita somente para pacientes do grupo de risco. Sendo assim, teremos a base geral de todos os pacientes e outra com somente aqueles do grupo de risco.
